@@ -1,2 +1,2 @@
-This is my readme file
-it's Jacopo's birthday today.
+My dog's name is Jacopo.
+It's his 5th birthday today.
